@@ -1,0 +1,2 @@
+- sqlite3.IntegrityError: UNIQUE constraint failed: shop.name (добавление уже сущ товаров)
+- openpyxl.utils.exceptions.InvalidFileException (некорректный путь к файлу c товарами)
